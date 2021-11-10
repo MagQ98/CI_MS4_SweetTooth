@@ -85,14 +85,14 @@ Features
 <li>Displays the main focus of the site which is to showcase recipes and posts from bakers around the community</li>
 <li>Piques the interests of visitors to give them a overall impression of what the site is for</li>
 </ul>
-<img src="assets/images/" alt="Home page" style="max-width:100%;">
+<img src="assets/images/home.JPG" alt="Home page" style="max-width:100%;">
 
 ### Sign In/Out
 <ul>
 <li>Allows user to sign in our out of their accounts</li>
 </ul>
-<img src="assets/images/signinpage" alt="Sign In" style="max-width:100%;">
-<img src="assets/images/signoutpage" alt="Sign Out" style="max-width:100%;">
+<img src="assets/images/signinpage.JPG" alt="Sign In" style="max-width:100%;">
+<img src="assets/images/signoutpage.JPG" alt="Sign Out" style="max-width:100%;">
 
 ### Register
 <ul>
@@ -143,15 +143,13 @@ Technologies Used
 Testing
 ======
 
-## Validator Testing
-
 ### Html
 W3C Markup Validation was used to validate the HTML of the website. The validator shows some errors linked to Javascript but when validating just the HTML it passes with no errors.
 
 ### Css
 W3C Jigsaw CSS Validation was used to validate the CSS of the website. The validator shows some errors linked to Bootstrap v5.0 but when validating just my custom CSS it passes with no errors.
 
-### Javascript
+### JavaScript
 JSHint Static Code Analysis Tool for JavaScript was used to validate the Javascript files. No significant issues were found.
 
 Deployment
