@@ -85,7 +85,7 @@ Features
 <li>Displays the main focus of the site which is to showcase recipes and posts from bakers around the community</li>
 <li>Piques the interests of visitors to give them a overall impression of what the site is for</li>
 </ul>
-<img src="assets/images/home.JPG" alt="Home page" style="max-width:100%;">
+<img src="assets/images/recipepage.JPG" alt="Home page" style="max-width:100%;">
 
 ### Sign In/Out
 <ul>
