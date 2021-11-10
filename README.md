@@ -1,5 +1,7 @@
 # Sweet Tooth
 
+Due to time constraints and unforeseen circumstances, this website is still very basic and full of minor errors. My sincere apologies for the fact that this is incomplete and is still a work in progress but I decided I wanted to submit somehting rather than nothing at all.
+
 User Experience
 ======
 
