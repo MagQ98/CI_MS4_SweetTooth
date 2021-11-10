@@ -169,7 +169,7 @@ The website was deployed using Heroku using the following steps:
 <p>Go to the manual deploy section and click the "Deploy Branch" button</p>
 <p>Wait for the app to build and then click on the "View" link</p>
 
-The live link can be found here - 
+The live link can be found here - https://sweet-tooth-ci.herokuapp.com/
 
 Credits
 ======
