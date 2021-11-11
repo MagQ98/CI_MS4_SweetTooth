@@ -184,4 +184,5 @@ Credits
 
 ### Acknowledgements
 
-My mentor and tutor for continuous helpful feedback
+While making this project, I heavily relied on the tutorials provided by Code Institute, specifically the Django Blog tutorial
+I would like to thank my mentor and tutor for continuous helpful feedback
