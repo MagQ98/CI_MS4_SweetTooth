@@ -158,3 +158,9 @@ body {
     text-align: center;
     margin-top: 1rem;
 }
+
+.description {
+    font-size: medium;
+    margin-bottom: -2rem;
+    color:blue;
+}
